@@ -11,7 +11,6 @@ Link to project: https://boulder-stone-warrior.glitch.me
 ## Required Functionality
 
 The following **required** functionality is complete:
-
 * [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. 
 * [x] Game buttons each light up and play a sound when clicked. 
@@ -21,7 +20,6 @@ The following **required** functionality is complete:
 * [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
-
 * [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [x] More than 4 functional game buttons
@@ -33,16 +31,13 @@ The following **optional** features are implemented:
 * [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
-
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![x]https://media.giphy.com/media/2S9jLL2pACjB1MvX61/giphy.gif
+![x]https://media.giphy.com/media/jidS3OEF6k2sqAN0KM/giphy.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -58,16 +53,12 @@ Some questions I have are: How do companies allow users to create accounts on we
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 If I had more time working on this project, I would want to make a level system. In other words, as the player advances in levels the game speeds up and becomes harder. I would want to start level 1 with four buttons then as the levels progress I would like to add a button; level 2 would have 5 buttons and so on. I would also like to create a more captivating home screen. Since I do have design experience, I would like to create my own icons and figures. For example, creating a logo and better game title would be more beneficial.
 
-
-
 ## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
-
+https://ucdavis.zoom.us/rec/share/s-us2w3VtTvoP9m1FngNjQ8EsQgMeCzW5InjNQN8dv2a06LTQGJXnsYfvhHNT5p_.H7Bp1fxsJXstvq63?startTime=1648877152000
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Maricarmen Frias Prieto
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
