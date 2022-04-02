@@ -18,6 +18,10 @@
     background: lightgreen;
 }
 
+#button5 {
+    background: orchid;
+}
+
 #button1:active, #button1.lit {
     background:palevioletred;
 }
@@ -32,6 +36,10 @@
 
 #button4:active, #button4.lit {
     background:mediumseagreen;
+}
+
+#button5:active, #button4.lit {
+    background:darkorchid;
 }
 
 /* default to border-box */
@@ -60,7 +68,7 @@ h1 {
 
 button {
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 #gameButtonArea > button {
